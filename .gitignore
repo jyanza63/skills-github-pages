@@ -1,37 +1,183 @@
-# Compiled source #
-###################
-*.com
-*.class
-*.dll
-*.exe
-*.o
-*.so
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
 
-# Packages #
-############
-# it's better to unpack these files and commit the raw source
-# git has its own built in compression methods
-*.7z
-*.dmg
-*.gz
-*.iso
-*.jar
-*.rar
-*.tar
-*.zip
+<img src="" alt=".assets/fes.svg" alt="">
+<ul>
+    <li>
 
-# Logs and databases #
-######################
-*.log
-*.sql
-*.sqlite
+    </li><a href="about">about</a><li>
+    <li><a href="blog">blog</a></li>
+    </li><a href="pricing">pricing</a><li>
+        <h1>
+            beautiful react templates for you </h1>
+            <p>lets begin today by logging in</p>
+            <button>start</button>
+            <ul>
+                <nav>
+                    <header>
+                        <div>
+                            <section>
+                                <h1>we have amazing service</h1>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 
-# OS generated files #
-######################
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
+                         </section>
+                        </div>
+                        <li><a href="secure">secure</a></li>
+                        <li><a href="24/7 support">24/7 support</a></li>
+                        <li><a href="customizable">customizable</a></li>
+                        <li><a href="reliable">reliable</a></li>
+                        <li><a href="fast">fast</a></li>
+                        <li><a href="easy">easy</a></li>
+
+
+                    <section>
+                        <div class="id">quality work</div>
+                    <h2>designed & developed by professionals<h2>
+                    <form action="">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                        <footer>
+                            <body>
+                               <html>
+                                <button>learn more</button>
+<div><img src="./assets/about.jpg" alt="discord"
+
+    .nav
+display:flex;
+justify-content:sb
+align-items:center;
+
+<p> Easy to get started</p>
+<li><a href="register">register</a></li>
+<li><a href="download">download</a></li>
+<li><a href="run">run</a></li>
+
+<img src=".assets/about.jpg" alt="">
+<ul>
+    <li>
+        <section>
+            <div=class="id">values</div>
+                <h3>we always abide by our princiles </h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                <li><a href="affordable">affordable</a></li>
+                <p>We promise to offer you the best rate we can - at par with the industry standard.</p>
+                <div class="row">100%
+                    pix
+                </div>
+                <li><a href="professionalism">professionalism</a></li>
+                <p>We assure you that our templates are designed and created by professional designers.</p>
+                <button>learn more</button>
+
+                display;flex 
+                width:flex;
+                flex-direction:column;
+
+                <div class="plans">
+                <div class="plans/div>
+                    display:flex;
+                    flex-wrap:wrap;
+
+                    div class="plan>
+                        width:calc(100%)
+                        display:flex:flex;
+                        flex-direction:colomn;
+
+                    <div class="plans">
+                        display:flex;
+                        flex-wrap:wrap;
+
+                        <div class="row">
+  <footer>
+    <div class="row"><main>
+        width:100%;
+        max-width:1200px;
+        margin:0;
+    </main></div>
+     
+<div class="row">product</div>
+    width:100%;
+    max-width:1200px;
+    margin:0auto;
+
+<div class="row">press</div>
+     width:80%
+     max-width:1200px;
+     margin:0auto;
+<div class="row">team</div>
+    width:80%
+    max-width:1200px;
+    margin:0auto;
+</div>
+        <div class="legal"></div>
+            <div class="links">
+                display:flex;
+            
+            </div>    
+<div class="link">
+    display:flex;
+    <flex-direction:colomn>
+        width:calc100%
+        align-items:center;
+
+        <footer><div class="footer_info">
+            <div class="footer_info">
+                display:flex;
+                justify-content:space-between;
+                align-items:center;
+
+<div class="color">red</div> 
+<img src="100px" alt="">
+
+</nav>
+
+    <li><a href="Testimonials"></a>testimonials</a></li>
+    <h5</p>our clients love us 
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua enim ad minim veniam.</p>
+    <div class="row">amazing user experince</div>
+    display: flex;
+    justify-content:space between;
+    <align-items:enter>charlotte hale director delos inc</align-items:enter><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+
+    <footer>developers all over the word are happily using treact</footer>
+    <div class="color">purple</ul>
+    <button>get started</button>
+    <textarea name="get started" id="discord"></textarea>
+    <button>contact-us</button
+    .row
+    width: calc 100%;
+    align-items:center;
+textarea name="contact us" id="discord"></textarea>
+    </div>
+    
+
+
+
+    
+                               
+
+
+
+                
+
+
+                
+   
+
+
+
+
+
+
+
+    
+
+
+
