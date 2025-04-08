@@ -1,162 +1,170 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <meta charset="styles.css">
+    <meta http-equiv="X-UA-Compatible" content="IE-edge">
+    <meta name="viewport" content="width=device-width, initial-s">
+    <title>Bueatiful templates for you</title>
+    <link rel="stylesheet" href="styles.css">
+    
 </head>
 <body>
-    
-</body>
-</html>
+  <section>
+    <nav>
+      <div class="nav_container">
+        <img class="logo" src="file:///C:/Users/jyanz/AppData/Local/Temp/80a0f05a-cf61-413a-b1dd-3d6a7fef8da1_assets-20250408T131034Z-001.zip.da1/assets/logo.2c489fc453a1783cbadacf914efa3df6.svg" alt="">
+      <ul class="nav_links">
+        <li><a href="#about">About</a></li>
+        <li><a href="#blog">blog</a></li>
+        <li><a href="#contact us">contact us</a></li>
+        <li><a href="#pricing">pricing</a></li>
+        <li><a href="#login nav__link--primary"></a>login</li>
+        <button>sign up</button>
+        <div>
+          <ul>
+            <nav>
+              <header>
 
-<img src="" alt=".assets/fes.svg" alt="">
-<ul>
-    <li>
+              </header>
+              <section>
+                <body>
+                  
+                  <html>
+                </body>
+              </section>
+            </nav>
+          </div></ul>
+          <img src="c:\Users\jyanz\Downloads\hero-screenshot-2.241aac1fbc66db29d873.png" alt="Home page image">
+        </figure>
+        <nav>
+          <div class="row" width:100%;
+          max-width:1200px;
+          margin: 0 auto;
 
-    </li><a href="about">about</a><li>
-    <li><a href="blog">blog</a></li>
-    </li><a href="pricing">pricing</a><li>
-        <h1>
-            beautiful react templates for you </h1>
-            <p>lets begin today by logging in</p>
-            <button>start</button>
-            <ul>
-                <nav>
-                    <header>
-                        <div>
-                            <section>
-                                <h1>we have amazing service</h1>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+          .nav
+          display:flex;
+          justify-content:sb;
+          align-items:center;
+        
+    ></nav>
+    <div>
+      <header>
+      </section>
+      
+      <main>
 
-                         </section>
-                        </div>
-                        <li><a href="secure">secure</a></li>
-                        <li><a href="24/7 support">24/7 support</a></li>
-                        <li><a href="customizable">customizable</a></li>
-                        <li><a href="reliable">reliable</a></li>
-                        <li><a href="fast">fast</a></li>
-                        <li><a href="easy">easy</a></li>
-
-
+      <section id=" Bueatiful react templates for you">
+            <h2>Bueatiful reaction templates for you</h2>
+            <div>
+            <p> 
+              our templates are easy to setup, understand and customize. Fully modular components with a variety of pages and components. 
+            </p>
+              <div>
+                <figure>
+                  <img src="c:\Users\jyanz\Downloads\hero-screenshot-2.241aac1fbc66db29d873.png" alt="">
+                  <figure>
                     <section>
-                        <div class="id">quality work</div>
-                    <h2>designed & developed by professionals<h2>
-                    <form action="">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                        <footer>
-                            <body>
-                               <html>
-                                <button>learn more</button>
-<div><img src="./assets/about.jpg" alt="discord"
 
-    .nav
-display:flex;
-justify-content:sb
-align-items:center;
+                      <header>
+                        
+                      </header>
+                  
+                      
+                  
 
-<p> Easy to get started</p>
-<li><a href="register">register</a></li>
-<li><a href="download">download</a></li>
-<li><a href="run">run</a></li>
-
-<img src=".assets/about.jpg" alt="">
-<ul>
-    <li>
-        <section>
-            <div=class="id">values</div>
-                <h3>we always abide by our princiles </h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                <li><a href="affordable">affordable</a></li>
-                <p>We promise to offer you the best rate we can - at par with the industry standard.</p>
-                <div class="row">100%
-                    pix
-                </div>
-                <li><a href="professionalism">professionalism</a></li>
-                <p>We assure you that our templates are designed and created by professional designers.</p>
-                <button>learn more</button>
-
-                display;flex 
-                width:flex;
-                flex-direction:column;
-
-                <div class="plans">
-                <div class="plans/div>
-                    display:flex;
-                    flex-wrap:wrap;
-
-                    div class="plan>
-                        width:calc(100%)
-                        display:flex:flex;
-                        flex-direction:colomn;
-
-                    <div class="plans">
-                        display:flex;
-                        flex-wrap:wrap;
-
-                        <div class="row">
-  <footer>
-    <div class="row"><main>
-        width:100%;
-        max-width:1200px;
-        margin:0;
-    </main></div>
-     
-<div class="row">product</div>
-    width:100%;
-    max-width:1200px;
-    margin:0auto;
-
-<div class="row">press</div>
-     width:80%
-     max-width:1200px;
-     margin:0auto;
-<div class="row">team</div>
-    width:80%
-    max-width:1200px;
-    margin:0auto;
-</div>
-        <div class="legal"></div>
-            <div class="links">
-                display:flex;
             
-            </div>    
-<div class="link">
-    display:flex;
-    <flex-direction:colomn>
-        width:calc100%
-        align-items:center;
+          
+        </header>
+      </figure>
+      <ul>
 
-        <footer><div class="footer_info">
-            <div class="footer_info">
-                display:flex;
-                justify-content:space-between;
-                align-items:center;
+  <head>
+    <div className="flex justify-between items-center p-6 bg-white shadow-md">
+    <div className="text-2xl font-bold text-blue-600">Treact</div>
+    <nav className="space-x-6">
+      <footer>
+        <div class="center">
+          <nav: 1000px >
+          
 
-<div class="color">red</div> 
-<img src="100px" alt="">
+  
+      <div class="row":120% ></div>
+      <a href="#About" className="text-gray-700 hover:text-blue-600">About</a>
+      <a href="#blog" className="text-gray-700 hover:text-blue-600">blog</a>
+      <a href="#pricing" className="text-gray-700 hover:text-blue-600">pricing</a>
+      <a href="#contact us" className="text-white-700 hover:text-blue-600">classname</a>
+      <a href="#login" className="text-white-700 hover:text-blue-600">login</a>
+      <button signup="ml-4 px-4 py-2 bg-blue-600 text-white rounded-lg">signup</button>
+      <ul>
+    </nav>
+  </header>
+    <div
+      <h1>Bueatiful places to react</h1>
+      <p>our templates are easy to setup, understand and customize. fully modular components with a variety of pages and components.</p>
+      <button>get Started</button>
+    <div>
+      <figure>
+        <header>
+          <section>
+<main>
+  <section>
 
-</nav>
+  </section>
+</main>
+         
+  <section className="flex flex-col items-center text-center py-24 px-6 bg-gray-50">
+    <h1 className="text-5xl font-bold max-w-3xl">Beautiful React Templates <span className="text-blue-600">for You</span></h1>
+    <p className="mt-6 text-lg max-w-xl text-gray-600">
+      Our templates are easy to setup, fully responsive and customizable. Start building your landing page today.
+    </p>
+    <div className="mt-8 space-x-4">
+      <button className="px-6 py-3 bg-blue-600 text-white rounded-lg">Get Started</button>
+      <button className="px-6 py-3 bg-gray-200 text-gray-800 rounded-lg">Learn More</button>
 
-    <li><a href="Testimonials"></a>testimonials</a></li>
-    <h5</p>our clients love us 
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua enim ad minim veniam.</p>
-    <div class="row">amazing user experince</div>
-    display: flex;
-    justify-content:space between;
-    <align-items:enter>charlotte hale director delos inc</align-items:enter><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+      
 
-    <footer>developers all over the word are happily using treact</footer>
-    <div class="color">purple</ul>
-    <button>get started</button>
-    <textarea name="get started" id="discord"></textarea>
-    <button>contact-us</button
-    .row
-    width: calc 100%;
-    align-items:center;
-textarea name="contact us" id="discord"></textarea>
-    </div>
+      
     
+    </section>
+
+
+const Features = () => (
+  <section id="features" className="py-20 px-6 bg-white">
+    <div className="text-center mb-12">
+      <h2 className="text-3xl font-bold">Amazing Features</h2>
+      <p className="mt-4 text-gray-600">What makes our templates stand out</p>
+    </div>
+    <div className="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
+      {["Responsive Design", "Customizable", "Fast Performance"].map((feature, index) => (
+        <div key={index} className="p-6 bg-gray-50 rounded-lg shadow hover:shadow-lg transition">
+          <div className="text-blue-600 text-3xl mb-4">🚀</div>
+          <h3 className="text-xl font-semibold mb-2">{feature}</h3>
+          <p className="text-gray-600">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div>
+      ))}
+    </div>
+  </section>
+);
+
+const Footer = (1000px) => (
+  <footer className="bg-gray-800 text-white py-10 px-6 text-center">
+    <div className="text-lg">© 2025 Treact. All rights reserved.</div>
+    <div className="mt-4 space-x-4">
+      <a href="#" className="hover:underline">Privacy Policy</a>
+      <a href="#" className="hover:underline">Terms of Service</a>
+    </div>
+  </footer>
+);
+
+const App = () => 
+  <div className="font-sans">
+    <Header > 
+    <Hero />
+    <Features />
+    <Footer >
+  </div>
+
+  
 
 
 
